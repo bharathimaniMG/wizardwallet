@@ -1,4 +1,4 @@
-# Required for Stellar ecosystem discovery
+# Required for Stellar ecosystem discovery - mandatory
 VERSION = "2.0.0"
 
 # Your domain name (adjust if using custom domain)
